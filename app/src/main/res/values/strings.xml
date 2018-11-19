@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BiddingDemo</string>
+    <string name="id_label">ID</string>
+    <string name="reserve_price_label">Reserve Price</string>
+    <string name="current_price_label">Current Price</string>
+    <string name="start_time_label">Start Time</string>
+    <string name="end_time_label">End Time</string>
+</resources>
